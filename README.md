@@ -9,5 +9,5 @@
 ------------------------------------
    The script can be used to collect the hash value of multiple files present on a directory with multiple levels of subfolders (*.*):  
     
-   \\Remote machine name\c$\Users\Luke.Skywalker\Desktop\folder name\*.* #> 
+   \\Remote machine name\c$\Users\Luke.Skywalker\Desktop\folder name\*.* #>
  
